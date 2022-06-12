@@ -5,7 +5,9 @@
 ### ぼくです
 
 - 💬 メインスキル
-  - Kotlin + Ktor のサーバーサイドや Flutter でのモバイルアプリ開発
+  - Flutter
+  - Kotlin + Ktor
+  - KotlinでのMinecraftプラグイン開発
 - ✅ 触れるもの！
   - Kotlin + SpringBoot
   - Node.js
@@ -16,7 +18,7 @@
 - 🎨 趣味
   - PCゲーム(League of Legends, Valorant)
   - ダンス頑張る
-  - 最近は BE:First 推してます大好き💕
+  - 最近は [BE:First](https://www.youtube.com/watch?v=Let5-KJ0giQ) 推してますリュウヘイくんかっこいい大好き💕
 
 KotlinでサーバーサイドやらMinecraftのプラグイン開発をしていたらいつのまにかFlutterと出会い恋に落ちてしまった人。
 
